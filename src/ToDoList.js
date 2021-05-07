@@ -30,7 +30,7 @@ class ToDoList extends Component{
     }
     deleteItem (key){
         var filteredItems = this.state.items.filter(function (item){
-            return ((item.key !== key), alert("آیا میخواهید این آیتم در لیست کار های شما حذف شود؟"));
+            return (item.key !== key);
         });
         this.setState({items: filteredItems});
     }
