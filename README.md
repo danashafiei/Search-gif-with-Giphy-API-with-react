@@ -4,10 +4,6 @@ Search gif with Giphy API with react
 
 git clone https://github.com/danashafiei/Search-gif-with-Giphy-API-with-react.git
 
-If you want to support me😉: 
-
-Perfect Money: https://perfectmoney.com/api/pay.asp?acc=U30994009&cur=1&name=Dana+Shafiei&email=d.nekron@gmail.com&memo=Thanks+for+donate!
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
